@@ -192,6 +192,7 @@
 				TargetAttributes = {
 					C73C41D21BB7E1A4000A62C7 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = SSA69KQV8A;
 					};
 					C73C41E61BB7E1A4000A62C7 = {
 						CreatedOnToolsVersion = 7.0;
@@ -396,6 +397,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = PerSec/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.koutra.PerSec;
@@ -407,6 +409,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = PerSec/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.koutra.PerSec;
